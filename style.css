@@ -1,0 +1,18 @@
+.jumbotron{
+    background-image: url("image/image.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+form {
+    
+    border: 1px solid #fff; 
+    padding: 40px 50px;
+    -webkit-box-shadow: 11px 10px 5px 3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 11px 10px 5px 3px rgba(0,0,0,0.75);
+    box-shadow: 11px 10px 5px 3px rgba(0,0,0,0.75);
+}
+.row {
+    margin-top: 10vh;
+}
