@@ -16,3 +16,11 @@ form {
 .row {
     margin-top: 10vh;
 }
+
+input-group-text{ 
+    color: blue;
+}
+label{
+    color:blue;
+    font-weight: bold;
+}
